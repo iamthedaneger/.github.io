@@ -1,4 +1,4 @@
-.github.io
+Hello World
 ==========
-
-Product Page
+This is my first repository on GitHub!
+I like :coffee:, :candy:, and I am into creative :guitar:.
